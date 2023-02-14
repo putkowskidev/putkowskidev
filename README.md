@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020,<br>📚 I'm currently learning SwiftUI and mobile devlopment,<br>🎯 Goals: Become iOS Developer,<br>🎲 Fun fact: I'm big F1 fan and football (currently playing in amateur team).</p>
+<p align="left">✨ Creating bugs since 2020,<br>📚 I'm currently learning SwiftUI and mobile devlopment,<br>🎯 Goals: Become iOS Developer / expand my knowledge as Mobile Automation QA ,<br>🎲 Fun fact: I'm big F1 fan and football (currently playing in amateur team).</p>
 
 ###
 
