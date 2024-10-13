@@ -3,14 +3,14 @@
 </div>  
   
 <h1 align="center">Hey 👋 What's up?</h1>
-<div align="center">I'm Łukasz, a Mobile Automation QA 👨‍💻</div>  
+<div align="center">I'm Łukasz, iOS Developer 👨‍💻</div>  
 
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020,<br>📚 I'm currently learning SwiftUI and mobile devlopment,<br>🎯 Goals: Become iOS Developer / expand my knowledge as Mobile Automation QA ,<br>🎲 Fun fact: I'm big F1 fan and football (currently playing in amateur team).</p>
+<p align="left">✨ Creating bugs since 2020,<br>📚 I'm currently learning SwiftUI and mobile devlopment,<br>🎯 Goals: Expand my knowledge as iOS Developer / Mobile Automation QA ,<br>🎲 Fun fact: I'm big F1 fan and football (currently playing in amateur team).</p>
 
 ###
 
